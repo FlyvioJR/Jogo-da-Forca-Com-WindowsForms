@@ -1,0 +1,10 @@
+C:\Users\Flyvi\source\repos\Forca\Forca\bin\Release\Forca.exe.config
+C:\Users\Flyvi\source\repos\Forca\Forca\bin\Release\Forca.exe
+C:\Users\Flyvi\source\repos\Forca\Forca\bin\Release\Forca.pdb
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.Properties.Resources.resources
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.csproj.GenerateResource.cache
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.csproj.CoreCompileInputs.cache
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.exe
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.pdb
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.csprojAssemblyReference.cache
+C:\Users\Flyvi\source\repos\Forca\Forca\obj\Release\Forca.Forca.resources
